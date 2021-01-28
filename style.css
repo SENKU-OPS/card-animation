@@ -20,7 +20,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-family: "Patrick Hand SC" cursive;
+  font-family: "Patrick Hand SC" ,cursive;
   background-color: #48495f;
   --redColor: rgb(233, 103, 103);
   -webkit-perspective: 1000px;
